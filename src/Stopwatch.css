@@ -1,0 +1,28 @@
+.controls {
+  margin: 15px;
+  text-align: center;
+}
+
+h1 {
+  font-family: Arial;
+  font-size: 16px;
+  text-align: center;
+}
+
+button {
+  background: lightgray;
+  color: black;
+  font-family: Arial;
+  font-size: 16px;
+  text-align: center;
+  border: 1px solid black;
+  border-radius: 10px;
+  margin: 5px;
+  padding: 5px 10px;
+  border-radius: 10px;
+  cursor: pointer;
+}
+
+button:hover {
+  background: darkgray;
+}
